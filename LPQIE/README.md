@@ -13,3 +13,6 @@ BibTeX Citation:
       archivePrefix={arXiv},
       primaryClass={quant-ph}
 }
+
+### Acknowledgements
+The authors would like to acknowledge that this paper has been written based on the results achieved within the WrightBroS project. This project has received funding from the European Union’s Horizon 2020 research and innovation pro-gramme under the Marie Skłodowska Curie grant agreement No 822483. Dis-claimer: The paper reflects only the authors’ view and the Research Executive Agency (REA) is not responsible for any use that may be made of the information it contains.
